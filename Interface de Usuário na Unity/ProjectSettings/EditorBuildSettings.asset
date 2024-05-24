@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Menu.unity
     guid: bc9a96fd347204542a0811c4239d6e1e
   - enabled: 1
-    path: Assets/Maco.unity
+    path: Assets/jogo.unity
     guid: a629853fad9c708459192544dccb6079
   m_configObjects: {}

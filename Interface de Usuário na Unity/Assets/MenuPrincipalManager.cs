@@ -5,10 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    [SerializeField] private string Maco;
+    [SerializeField] private string jogo;
 
-    public void EnterMacoButton()
+    public void botao()
     {
-        SceneManager.LoadScene("Maco");
+        SceneManager.LoadScene("jogo");
     }
 }
